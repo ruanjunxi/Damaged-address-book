@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  addressbook.cpp
+D:\c++ 学习\软件工程实践\ConsoleApplication1\addressbook.cpp(15,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\c++ 学习\软件工程实践\ConsoleApplication1\addressbook.cpp(67,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\c++ 学习\软件工程实践\ConsoleApplication1\addressbook.cpp(109,21): warning C4018:  “<”: 有符号/无符号不匹配
+D:\c++ 学习\软件工程实践\ConsoleApplication1\addressbook.cpp(141,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\c++ 学习\软件工程实践\ConsoleApplication1\addressbook.cpp(233,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\c++ 学习\软件工程实践\ConsoleApplication1\addressbook.cpp(251,20): warning C4018:  “<”: 有符号/无符号不匹配
+  ConsoleApplication1.vcxproj -> D:\c++ 学习\软件工程实践\ConsoleApplication1\Debug\addressbook.exe

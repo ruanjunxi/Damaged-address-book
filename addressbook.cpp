@@ -290,6 +290,7 @@ int SetLevel()
 	int x;
 	x = str[0];
 	x -= 48;
+	if(x)
 	return x;
 }
 Info disposeLevel1(Info info)

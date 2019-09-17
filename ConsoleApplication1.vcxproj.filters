@@ -41,13 +41,15 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Library Include="lib\json_vc71_libmtd.lib">
-      <Filter>资源文件</Filter>
-    </Library>
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="addressbook.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="lib\json_vc71_libmt.lib" />
+    <Library Include="lib\json_vc71_libmtd.lib" />
   </ItemGroup>
 </Project>
